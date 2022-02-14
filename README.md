@@ -1,3 +1,3 @@
 # Solucion_Kata0
-Mi primer kata resueltp
+Katas resueltas
 Autor: Ramírez Máximo Abraham Santiago
